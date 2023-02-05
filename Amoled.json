@@ -1,6 +1,6 @@
 {
     "--bg": "#000000",
-    "--button_bg": "#121212",
+    "--button_bg": "#000000",
     "--button_fg": "#ffff",
     "--border": "#FF6C60",
     "--border_hover": "#ff3b29",
