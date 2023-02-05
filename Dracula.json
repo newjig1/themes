@@ -1,8 +1,8 @@
 {
     "--bg": "#282a36",
     "--button_bg": "#282a36",
-    "--bg_color": "#282a36",
     "--border": "#ff79c6",
     "--border_hover": "#bd93f9",
-    "--footer_bg": "#44475a"
+    "--footer_bg": "#44475a",
+    "--line": "#ff79c6"
 }
