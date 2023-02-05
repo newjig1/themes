@@ -1,8 +1,8 @@
 {
-    "--bg": "#0F0F0F",
-    "--button_bg": "#121212",
-    "--bg_color": "#282a36",
-    "--border": "FF6C60",
-    "--border_hover": "#ff3b29",
-    "--footer_bg": "#161616"
+    "bg": "#0F0F0F",
+    "button_bg": "#121212",
+    "bg_color": "#282a36",
+    "border": "FF6C60",
+    "border_hover": "#ff3b29",
+    "footer_bg": "#161616"
 }
