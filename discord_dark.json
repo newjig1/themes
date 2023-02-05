@@ -2,9 +2,9 @@
     "--bg": "#2c2f33",
     "--button_bg": "#282a36",
     "--button_fg": "#ffff",
-    "--border": "#5865F2",
-    "--border_hover": "#3e4df0",
+    "--border": "#7289da",
+    "--border_hover": "#6880d4",
     "--footer_bg": "#23272a",
-    "--line": "#ff79c6",
+    "--line": "#7289da",
     "--menu_bg": "#23272a"
 }
