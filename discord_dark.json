@@ -2,8 +2,8 @@
     "--bg": "#2c2f33",
     "--button_bg": "#282a36",
     "--button_fg": "#ffff",
-    "--border": "#ff79c6",
-    "--border_hover": "#bd93f9",
+    "--border": "#5865F2",
+    "--border_hover": "#3e4df0",
     "--footer_bg": "#202225",
     "--line": "#ff79c6",
     "--menu_bg": "#23272a"
