@@ -6,5 +6,6 @@
     "--border_hover": "#D6ED21",
     "--footer_bg": "#686868",
     "--line": "#82C139",
-    "--menu_bg": "#121212"
+    "--menu_bg": "#121212",
+    "--color": "#FFFFFF"
 }
