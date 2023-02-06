@@ -1,0 +1,10 @@
+{
+    "--bg": "#000000",
+    "--button_bg": "#000000",
+    "--button_fg": "#ffff",
+    "--border": "#82C139",
+    "--border_hover": "#D6ED21",
+    "--footer_bg": "#686868",
+    "--line": "82C139",
+    "--menu_bg": "#121212"
+}
